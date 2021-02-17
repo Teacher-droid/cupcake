@@ -1,0 +1,140 @@
+/* Width */
+.width_900 {
+    width: 1180px;
+}
+
+/* Flex & grid */
+.d_flex {
+    display: flex;
+}
+
+.d_grid {
+    display: grid;
+}
+
+.d_none {
+    display: none;
+}
+
+/* direction */
+.flex_row {
+    flex-direction: row;
+}
+
+.flex_column {
+    flex-direction: column;
+}
+
+/* espacement */
+.content_around {
+    justify-content: space-around;
+}
+
+.content_between {
+    justify-content: space-between;
+}
+
+.content_center {
+    justify-content: center;
+}
+
+/* alignement */
+.align_center {
+    align-items: center;
+}
+
+/* marges */
+.margin_auto {
+    margin: auto;
+}
+
+.center_wrap {
+    margin: auto;
+}
+
+.margin_right_1em {
+    margin-right: 1em;
+}
+
+.margin_right_2em {
+    margin-right: 2em;
+}
+
+.margin_left_1em {
+    margin-left: 1em;
+}
+
+.margin_left_2em {
+    margin-left: 2em;
+}
+
+.margin_5em {
+    margin: 5em;
+}
+
+.margin_top_10em {
+    margin-top: 10em;
+}
+
+.margin_top_5em {
+    margin-top: 5em;
+}
+
+.margin_top_25em {
+    margin-top: 2.5em;
+}
+
+.margin_top_2em {
+    margin-top: 2em;
+}
+
+.margin_bot_10em {
+    margin-bottom: 10em;
+}
+
+.margin_bot_5em {
+    margin-bottom: 5em;
+}
+
+.margin_bot_2em {
+    margin-bottom: 2em;
+}
+
+/* Taille box */
+.width_100 {
+    width: 100%;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+/* Relation position */
+.position_relative {
+    position: relative;
+}
+
+.position_absolute {
+    position: absolute;
+}
+
+/* Font style */
+.text_decoration_n {
+    text-decoration: none;
+}
+
+.font_weight {
+    font-weight: normal;
+}
+
+.toUppercase {
+    text-transform: uppercase;
+}
+
+.black {
+    color: black;
+}
+
+.white {
+    color: white;
+}
